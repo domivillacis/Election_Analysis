@@ -33,6 +33,22 @@ These are the results:
 
 ### And the winner is…
 
-Diana DeGette won the election. She received 272,892 votes, which means that she got 73.8% of the total votes. We can clearly see that she was the candidate with the most acceptance of these elections. Second place went to Charles Casper Stockham and third place to Raymon Anthony Doane.
+Candidate Diana DeGette, won the election. She received 272,892 votes, which means that she got 73.8% of the total votes. We can clearly see that she was the candidate with the most acceptance of these elections. Second place went to Charles Casper Stockham and third place to Raymon Anthony Doane.
 
 ![](winner_results.png)
+
+## Summary
+
+After having obtained the results of these elections, we can see the importance of getting relevant data for this type of analysis.
+
+The code we have used includes three important points: the names of the candidates, the total percentage of votes obtained, and the number of votes each candidate received.
+We also aggregate the same data, but by county. This addition allows us to project a detailed and exact result, which we can take advantage of to clearly understand the final result.
+
+The code that we used in this analysis can be used for other local elections or even senatorial districts or congressional districts
+
+
+
+### Resources
+
+Data Source: election_results.csv
+Software: Python 3.7.6, Visual Studio Code 1.71.2
