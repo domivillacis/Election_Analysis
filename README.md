@@ -34,6 +34,9 @@ These are the results:
 ### And the winner is…
 
 Candidate Diana DeGette, won the election. She received 272,892 votes, which means that she got 73.8% of the total votes. We can clearly see that she was the candidate with the most acceptance of these elections. Second place went to Charles Casper Stockham and third place to Raymon Anthony Doane.
+We now know how the total number of votes is divided by county. As you can see, 306,055 votes of the total 369,711 votes came from Denver County, which is 82.8% of the total votes. As a data analyst, i would advise the campaign team staff using all promotional budget in Denver County.
+
+You win Denver, you win the election!
 
 ![](winner_results.png)
 
@@ -42,11 +45,7 @@ Candidate Diana DeGette, won the election. She received 272,892 votes, which mea
 After having obtained the results of these elections, we can see the importance of getting relevant data for this type of analysis.
 
 The code we have used includes three important points: the names of the candidates, the total percentage of votes obtained, and the number of votes each candidate received.
-We also aggregate the same data, but by county. This addition allows us to project a detailed and exact result, which we can take advantage of to clearly understand the final result.
-
-The code that we used in this analysis can be used for other local elections or even senatorial districts or congressional districts
-
-
+We also aggregate the same data, but by county. This addition allows us to project a detailed and exact result, which we can take advantage of to clearly understand the final result. The code that we used in this analysis can also be used for other local elections.
 
 ### Resources
 
