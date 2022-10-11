@@ -1,4 +1,4 @@
-# Election_Analysis
+# Colorado Board of Election Analysis
 
 ## Project Overview
 
@@ -15,3 +15,14 @@ The following are the results that we are going to obtain from this analysis:
 5. And he winner of the election based on the popular vote
 
 Let's start!
+
+## Election-Audit Results:
+After extensive coding, we have obtained the results from this electoral audit.
+Votes were collected through mail-in ballots, punch cards, and direct recording electronic (DRE), and according to our results, the total number of votes cast was 369,711.
+The counties that participated in the election are: Arapahoe, Denver and Jefferson. The following graph contains the results based on the total number of votes per county, the percentage each county won and the name of the county in which the most votes were cast
+
+![](county_results.png)
+
+
+
+
