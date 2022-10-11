@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-I am participating in an election audit for the Colorado Board of Elections where I've been asked to help Tom with the results of a US Congressional precinct in Colorado.
+I'm participating in an election audit for the Colorado Board of Elections where I've been asked to help Tom with the results of a US Congressional precinct in Colorado.
 
 For this analysis and to automate the process, I used the Python programming language, which through codes helped me find the data and results I was looking for. Also, another powerful tool I used is VSC Visual Studio Code, which is where I wrote my codes and it allows me to print the results to my command line and to the txt.file I created for this project.
 
@@ -46,9 +46,10 @@ After having obtained the results of these elections, we can see the importance 
 
 The code we have used includes three important points: the names of the candidates, the total percentage of votes obtained, and the number of votes each candidate received.
 
-We also aggregate the same data, but by county. This addition allows us to project a detailed and exact result, which we can take advantage of to clearly understand the final result. The code that we used in this analysis can also be used for other local elections.
+We also aggregate the same data, but by county. This addition allows us to project a detailed and exact result, which we can take advantage of to clearly understand the final result. The code that we used in this analysis can be used for other local elections or other data sets, to get a better understanding of how numbers are divided geographically.
 
 ### Resources
 
 Data Source: election_results.csv
+
 Software: Python 3.7.6, Visual Studio Code 1.71.2
