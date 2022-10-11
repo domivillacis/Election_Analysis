@@ -31,4 +31,8 @@ These are the results:
 
 ![](candidate_elections.png)
 
+### And the winner is…
 
+Diana DeGette won the election. She received 272,892 votes, which means that she got 73.8% of the total votes. We can clearly see that she was the candidate with the most acceptance of these elections. Second place went to Charles Casper Stockham and third place to Raymon Anthony Doane.
+
+![](winner_results.png)
