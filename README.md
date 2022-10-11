@@ -34,11 +34,12 @@ These are the results:
 
 * Candidate Diana DeGette, won the election. She received 272,892 votes, which means that she got 73.8% of the total votes. We can clearly see that she was the candidate with the most acceptance of these elections. Second place went to Charles Casper Stockham and third place to Raymon Anthony Doane.
 
+<img width="481" alt="winner_results" src="https://user-images.githubusercontent.com/112814924/194983651-b9b35bf6-c4c7-4144-bb1a-65b84a5a5146.png">
+
 We now know how the total number of votes is divided by county. As you can see, 306,055 votes of the total 369,711 votes came from Denver County, which is 82.8% of the total votes. As a data analyst, i would advise the campaign team staff using all promotional budget in Denver County.
 
 You win Denver, you win the election!
 
-<img width="481" alt="winner_results" src="https://user-images.githubusercontent.com/112814924/194983651-b9b35bf6-c4c7-4144-bb1a-65b84a5a5146.png">
 
 ## Summary
 
