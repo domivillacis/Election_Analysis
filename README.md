@@ -8,6 +8,7 @@ Part of my analysis is reporting the total number of votes cast, the total numbe
 For this analysis and to automate the process, I used the Python programming language, which through codes helped me find the data and results I was looking for. Also, another powerful tool I used is VSC Visual Studio Code, which is where I wrote my codes and it allows me to print the results to my command line and to the txt.file I created for this project.
 
 The following are the results that we are going to obtain from this analysis:
+
 1. The total number of votes cast
 2. A list with the names of the candidates who participated in the elections
 3. The total number of votes each candidate received
@@ -19,10 +20,15 @@ Let's start!
 ## Election-Audit Results:
 After extensive coding, we have obtained the results from this electoral audit.
 Votes were collected through mail-in ballots, punch cards, and direct recording electronic (DRE), and according to our results, the total number of votes cast was 369,711.
-The counties that participated in the election are: Arapahoe, Denver and Jefferson. The following graph contains the results based on the total number of votes per county, the percentage each county won and the name of the county in which the most votes were cast
+
+The counties that participated in the election are: Arapahoe, Denver and Jefferson. The following image contains the results based on the total number of votes per county, the percentage each county won and the name of the county in which the most votes were cast
 
 ![](county_results.png)
 
+Now, I'm going to walk you through the results that each candidate got based on the total number of votes per candidate and the percentage each candidate got. There were three candidates who participated in these elections: Charles Casper Stockham, Diana DeGette and Raymon Anthony Doane.
 
+These are the results:
+
+![](candidate_elections.png)
 
 
